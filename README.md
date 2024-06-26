@@ -71,28 +71,6 @@
   </a>
 </p>
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif" width="50px"> </picture> Data Analysis & Machine learning
-
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-300458?style=plastic&logo=pandas&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-013243?style=plastic&logo=matplotlib&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=black"></a>
- &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=black"></a>
-  &emsp;
-<a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=black"></a>
- &emsp;
-<!-- <a href="#"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-AA4A44?style=plastic&logo=xgboost&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
- -->
-</p>
-
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
@@ -160,8 +138,6 @@
   &emsp;
     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
     <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/atcoder-%235B4638.svg?style=plastic&logo=atcoder&logoColor=white" /></a>
     
  
@@ -205,13 +181,13 @@
   <table style="width: 80%; margin: 0 auto;">
     <tr>
       <td style="width: 50%;">
-        <a href="https://github.com/aryanlath/Passenger-Recovery-Optimization" style="display: block; text-decoration: none; color: inherit;">
+        <a href="https://github.com/Mukulgoel457/Examination-Monitoring-System" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
           <p align="center"><b>Passenger Recovery Optimization</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/sarthakkapoor44/DBMS-with-C" style="display: block; text-decoration: none; color: inherit;">
+        <a href="https://github.com/Mukulgoel457/project_haxplore" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
           <p align="center"><b>DBMS Using C</b></p>
         </a>
@@ -219,13 +195,13 @@
     </tr>
     <tr>
       <td style="width: 50%;">
-        <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon" style="display: block; text-decoration: none; color: inherit;">
+        <a href="https://github.com/Mukulgoel457/Financial-Analysis-using-Signal-Proceessing-Tools" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
           <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/harshit089/Dark-Web-Scraper" style="display: block; text-decoration: none; color: inherit;">
+        <a href="https://github.com/Mukulgoel457/PairsTrading" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
           <p align="center"><b>Dark Web Scraper</b></p>
         </a>
