@@ -183,13 +183,13 @@
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/Examination-Monitoring-System" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
-          <p align="center"><b>Passenger Recovery Optimization</b></p>
+          <p align="center"><b>Examination Monitoring System</b></p>
         </a>
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/project_haxplore" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
-          <p align="center"><b>DBMS Using C</b></p>
+          <p align="center"><b>Temple Ticketing System</b></p>
         </a>
       </td>
     </tr>
@@ -197,13 +197,13 @@
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/Financial-Analysis-using-Signal-Proceessing-Tools" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
-          <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
+          <p align="center"><b>Financial Analysis using Signal Proceessing Tools</b></p>
         </a>
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/PairsTrading" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
-          <p align="center"><b>Dark Web Scraper</b></p>
+          <p align="center"><b>Pairs Trading</b></p>
         </a>
       </td>
     </tr>
