@@ -182,7 +182,7 @@
     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/Examination-Monitoring-System" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/passenger.webp" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
+          <img src="https://github.com/Mukulgoel457/Images/blob/main/ExamSystem.png" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
           <p align="center"><b>Examination Monitoring System</b></p>
         </a>
       </td>
