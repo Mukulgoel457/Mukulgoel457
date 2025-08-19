@@ -83,19 +83,6 @@
   </a> 
   &emsp;
   &emsp;
-   <a href="https://streamlit.io/" target="_blank"> 
-     <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
-   </a>
-  &emsp;
-	 <a href="https://react.dev/" target="_blank"> 
-     <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
-   </a>
-   &emsp;
-    <a href="https://nodejs.org/en" target="_blank"> 
-     <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=black">
-   </a>
-   &emsp;
-     
 </p>
 
 
@@ -106,10 +93,6 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
@@ -145,19 +128,6 @@
 
 ### <picture> <img src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="50px"> </picture> Frameworks
 
-<p align="center">
-  &emsp;
-<!--     <a href="#"><img src="https://img.shields.io/badge/GurobiPy-blue.svg?logo=gurobi&logoColor=white"></a>
-&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Qiskit-purple.svg?logo=qiskit"></a>
-&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Dwave-Systems-grey.svg?logo=dwavesystems&logoColor=white"></a>
-  &emsp; -->
-    <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"></a>
-<!--   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Chainlit-000000?style=plastic&logo=chainlit&logoColor=white"></a> -->
-</p>
-
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
@@ -182,13 +152,13 @@
     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/Examination-Monitoring-System" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/Mukulgoel457/Images/blob/main/ExamSystem.png" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
+          <img src="https://github.com/Mukulgoel457/Images/blob/main/ExamSystem.png" alt="Exam Monitoring System" style="width: 100%; height: auto;">
           <p align="center"><b>Examination Monitoring System</b></p>
         </a>
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/project_haxplore" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
+          <img src="https://github.com/Mukulgoel457/Images/blob/main/Temple.png" alt="Temple Ticketing System" style="width: 100%; height: auto;">
           <p align="center"><b>Temple Ticketing System</b></p>
         </a>
       </td>
@@ -196,62 +166,18 @@
     <tr>
       <td style="width: 50%;">
         <a href="https://github.com/Mukulgoel457/Financial-Analysis-using-Signal-Proceessing-Tools" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
+          <img src="https://github.com/Mukulgoel457/Images/blob/main/Finance.png" alt="Financial Analysis using Signal Proceessing Tools" style="width: 100%; height: auto;">
           <p align="center"><b>Financial Analysis using Signal Proceessing Tools</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/Mukulgoel457/PairsTrading" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
-          <p align="center"><b>Pairs Trading</b></p>
+        <a href="https://github.com/Mukulgoel457/Encode-2025" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://github.com/Mukulgoel457/Images/blob/main/AISale.png" alt="AI Sales Agent" style="width: 100%; height: auto;">
+          <p align="center"><b>AI Sales Agent</b></p>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-
-
-
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazzsterq&theme=tokyonight_duo" alt="jazzsterq" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mukulgoel457's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mukulgoel457&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulgoel457&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mukulgoel457" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![An image of @jazzsterq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jazzsterq)](https://holopin.io/@jazzsterq)
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jazzsterq&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@jazzsterq's Holopin board](https://holopin.io/api/user/board?user=jazzsterq)](https://www.holopin.io/@jazzsterq#)
-	
 </details>
