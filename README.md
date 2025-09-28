@@ -20,7 +20,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am currently in my pre-final year, studying [Electronics and Electrcal Engineering](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Mathematics.
+- :school: I am currently in my final year, studying [Electronics and Electrcal Engineering](https://iitg.ac.in/eee/) at the [Indian Institute of Technology Guwahati](https://iitg.ac.in/), with a minor in Mathematics.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `GFG`, `Leetcode`.
 - :student: I’m currently studying about Electronics and Computer Science.
